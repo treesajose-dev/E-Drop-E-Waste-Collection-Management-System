@@ -136,4 +136,3 @@ Customer and Collector accounts are stored in the USERS table.
 ## Author
 
 Treesa Jose\
-Master of Computer Applications
