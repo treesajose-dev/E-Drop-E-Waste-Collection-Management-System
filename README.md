@@ -135,4 +135,4 @@ Customer and Collector accounts are stored in the USERS table.
 
 ## Author
 
-Treesa Jose\
+Treesa Jose
